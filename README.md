@@ -16,7 +16,9 @@
 
 ## Getting Started
 
-1. In today's `student_labs` folder, create a file called `the_avengers.js` 
+1. Fork and Clone this repository
+2. create a file called `the_avengers.js` 
+3. Complete the prompts below and submit your deliverable
 
 ---
 
