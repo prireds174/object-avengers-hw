@@ -18,13 +18,13 @@
 
 1. Fork and Clone this repository
 2. create a file called `the_avengers.js` 
-3. Complete the prompts below and submit your deliverable
+3. Complete the prompts below and submit your deliverable by making a pull request on this repository
 
 ---
 
 ## Iron Man 
 
-Given the folowing object... 
+Copy and paste the folowing at the top of your `the_avengers.js` 
 
 ```javascript
 const ironMan = {
@@ -56,6 +56,7 @@ const ironMan = {
     }
 }
 ```
+Given above key/value pairs, practice accessing and modifying data in the `ironMan` object:
 
 1. Log Iron Man's third ability
 1. Log all of Iron Man's abilities by looping through the array
@@ -133,7 +134,7 @@ const mcuMovies = [
 ]
 ```
 
-## Other Objects - Intstruments 
+## Other Objects - Instruments 
 
 Switching gears, let's look at some instrument data! 
 
