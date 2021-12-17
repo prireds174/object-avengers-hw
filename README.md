@@ -66,24 +66,24 @@ Given above key/value pairs, practice accessing and modifying data in the `ironM
 
 ## Assembling other Avengers 
 
-Create a data structure for `createCaptain` such that...
+Create an object for `captainAmerica` such that...
 
 1. The following code logs `Captain America`
 
     ```javascript
-    console.log(createCaptain().aliases.superheroName)
+    console.log(captainAmerica.aliases.superheroName)
     ```
 
 1. The following  code logs `peak human strength`
 
     ```javascript
-    console.log(createCaptain().abilities[2])
+    console.log(captainAmerica.abilities[2])
     ```
 
 1. The following code logs `i can do this all day`
 
     ```javascript
-    console.log(createCaptain().sayPhrase()
+    console.log(captainAmerica.sayPhrase()
     ```
 
 Create a data structure for `blackWidow` such that... 
@@ -163,7 +163,7 @@ Given the above object...
 
 1. Add a `vocals` property to the object that includes a list of your favorite singers 
 
-## Other Objects - Garmonbozia 
+## Hungry For More? - Garmonbozia 
 
 In early 2017, digital archaeologists discovered a strangest, nonsensical combined data structure. Like in Raiders of the Lost Ark, they refused to look at it directly for fear of melting their faces off.
 
